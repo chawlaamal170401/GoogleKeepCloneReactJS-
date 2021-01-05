@@ -15,7 +15,3 @@ Features Of the application:
 - Minimalistic and simple UI.
 
 
-![Alt Text](snaps/snap 1.png?raw=true "Title")
-![Alt Text](snaps/snap 2.png?raw=true "Title")
-![Alt Text](snaps/snap 3.png?raw=true "Title")
-![Alt Text](snaps/snap 4.png?raw=true "Title")
