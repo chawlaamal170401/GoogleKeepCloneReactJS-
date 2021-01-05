@@ -13,3 +13,9 @@ Features Of the application:
 - Create new notes with a title and content.
 - Delete and edit notes body along with title.
 - Minimalistic and simple UI.
+
+
+![Alt Text](snaps/snap 1.png?raw=true "Title")
+![Alt Text](snaps/snap 2.png?raw=true "Title")
+![Alt Text](snaps/snap 3.png?raw=true "Title")
+![Alt Text](snaps/snap 4.png?raw=true "Title")
